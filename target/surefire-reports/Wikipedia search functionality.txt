@@ -1,0 +1,46 @@
+-------------------------------------------------------------------------------
+Test set: Wikipedia search functionality
+-------------------------------------------------------------------------------
+Tests run: 14, Failures: 0, Errors: 14, Skipped: 0, Time elapsed: 0.465 s <<< FAILURE! - in Wikipedia search functionality
+Wikipedia search functionality.Wikipedia Search Functionality Header Verification #2  Time elapsed: 0.303 s  <<< ERROR!
+java.lang.NullPointerException
+
+Wikipedia search functionality.Wikipedia Search Functionality Header Verification #2  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+
+Wikipedia search functionality.Wikipedia Search Functionality Header Verification #3  Time elapsed: 0.038 s  <<< ERROR!
+java.lang.NullPointerException
+
+Wikipedia search functionality.Wikipedia Search Functionality Header Verification #3  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+
+Wikipedia search functionality.Wikipedia Search Functionality Header Verification #4  Time elapsed: 0.031 s  <<< ERROR!
+java.lang.NullPointerException
+
+Wikipedia search functionality.Wikipedia Search Functionality Header Verification #4  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+
+Wikipedia search functionality.Wikipedia Search Functionality Header Verification #5  Time elapsed: 0.021 s  <<< ERROR!
+java.lang.NullPointerException
+
+Wikipedia search functionality.Wikipedia Search Functionality Header Verification #5  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+
+Wikipedia search functionality.Wikipedia Search Functionality Header Verification #6  Time elapsed: 0.02 s  <<< ERROR!
+java.lang.NullPointerException
+
+Wikipedia search functionality.Wikipedia Search Functionality Header Verification #6  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+
+Wikipedia search functionality.Wikipedia Search Functionality Header Verification #7  Time elapsed: 0.026 s  <<< ERROR!
+java.lang.NullPointerException
+
+Wikipedia search functionality.Wikipedia Search Functionality Header Verification #7  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+
+Wikipedia search functionality.Wikipedia Search Functionality Header Verification #8  Time elapsed: 0.023 s  <<< ERROR!
+java.lang.NullPointerException
+
+Wikipedia search functionality.Wikipedia Search Functionality Header Verification #8  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+
